@@ -1,26 +1,53 @@
 🧠 Nexus IQ
 
-Nexus IQ is an interactive tech quiz web application built with HTML, CSS, and JavaScript. It allows users to test their knowledge through a set of technology-focused questions and view their score at the end.
+«Test your tech knowledge. Challenge yourself. Improve your score.»
 
-🚀 Live Demo
+Nexus IQ is an interactive technology quiz web application built with HTML, CSS, and JavaScript. It provides a simple and engaging way to test your knowledge through multiple-choice questions and instantly see your performance.
 
-"Try Nexus IQ →" (https://nakuljain789.github.io/Nexus-IQ-/)
+🌐 Live Demo: "Nexus IQ" (https://nakuljain789.github.io/Nexus-IQ-/)
+
+---
 
 ✨ Features
 
-- 🧠 Technology-focused quiz questions
-- 📊 Real-time score tracking
-- ➡️ Interactive next-question navigation
-- 📈 Final score and percentage display
-- 🔄 Try Again option
-- 🏠 Home navigation
-- 📱 Responsive and clean interface
+- 🎯 Interactive multiple-choice quiz
+- 🧩 Technology-focused questions
+- ⚡ Dynamic question rendering
+- 📊 Automatic score calculation
+- 📈 Score and percentage display
+- 🔄 Restart the quiz and try again
+- 🏠 Simple navigation between screens
+- 📱 Clean and responsive interface
 
-🛠️ Tech Stack
+---
 
-- HTML5 – Structure
-- CSS3 – Styling and responsive design
-- JavaScript – Quiz logic, question handling, scoring and DOM manipulation
+🛠️ Built With
+
+Technology| Purpose
+HTML5| Page structure
+CSS3| UI design and styling
+JavaScript| Quiz logic and interactivity
+
+---
+
+🎮 How to Play
+
+1. Open Nexus IQ using the live demo.
+2. Start the quiz.
+3. Select the answer you think is correct.
+4. Continue through the questions.
+5. Complete the quiz to see your final score.
+6. Try again and improve your result.
+
+---
+
+📸 Project Preview
+
+<p align="center">
+  <a href="https://nakuljain789.github.io/Nexus-IQ-/">
+    <strong>🚀 Open Nexus IQ</strong>
+  </a>
+</p>---
 
 📂 Project Structure
 
@@ -31,37 +58,54 @@ Nexus-IQ/
 ├── script.js
 └── README.md
 
-🎯 How It Works
+---
 
-1. Start the quiz.
-2. Read each question and select an answer.
-3. Move through the questions using the navigation button.
-4. Your score is calculated automatically.
-5. View your final score and percentage.
-6. Try the quiz again if you want to improve your score.
+🧠 What I Practiced
 
-📚 What I Learned
-
-While building Nexus IQ, I practiced:
+Building Nexus IQ helped me strengthen my understanding of:
 
 - JavaScript DOM manipulation
-- Handling user interactions and events
-- Working with arrays and objects
-- Dynamic question rendering
-- Score calculation
+- Event handling
+- Arrays and objects
+- Dynamic content rendering
 - Conditional logic
-- Building interactive web interfaces
-- Deploying a project using GitHub Pages
+- Score calculation
+- User interaction
+- Structuring a frontend project
+- Deploying websites with GitHub Pages
+
+---
 
 🔮 Future Improvements
 
-- Add difficulty levels
-- Add different technology categories
-- Add a countdown timer
-- Randomize questions and options
-- Add a leaderboard/high-score system
-- Add detailed answer explanations
-- Add more quiz modes
+Some features I plan to explore in future versions:
+
+- ⏱️ Countdown timer
+- 🎚️ Difficulty levels
+- 📚 Multiple quiz categories
+- 🔀 Randomized questions
+- 🏆 High-score / leaderboard system
+- 💡 Answer explanations
+- 📊 More detailed performance statistics
+- 🎮 Additional quiz modes
+
+---
+
+🚀 Run Locally
+
+Clone the repository:
+
+git clone https://github.com/NakulJain789/Nexus-IQ-.git
+
+Open the project folder:
+
+cd Nexus-IQ-
+
+Then open "index.html" in your browser.
+
+No external dependencies or installation are required.
+
+---
 
 👨‍💻 Author
 
@@ -69,9 +113,15 @@ Nakul Jain
 
 B.Tech CSE (AI) — USICT, GGSIPU
 
-- GitHub: "NakulJain789" (https://github.com/NakulJain789)
+I'm interested in building practical software projects, strengthening my core CS fundamentals, and exploring real-world applications of AI.
+
+Connect with me:
+
+- GitHub: "@NakulJain789" (https://github.com/NakulJain789)
 - LinkedIn: "Nakul Jain" (https://www.linkedin.com/in/nakul-jain-19b106402/)
 
 ---
 
-⭐ If you like the project, consider giving it a star!# Nexus-IQ-
+<p align="center">
+  ⭐ If you found Nexus IQ interesting, consider starring the repository!
+</p>
